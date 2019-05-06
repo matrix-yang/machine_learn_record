@@ -16,7 +16,7 @@
 优惠券是否消费预测 
 
 # tensorflow
-
+记录了使用tensorflow实现的深度学习模型
 百度网盘数据集：
 
 链接：https://pan.baidu.com/s/1y5Z0jxC4btcwhEgX8oh5tQ 
